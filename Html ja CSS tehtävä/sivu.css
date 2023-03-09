@@ -1,0 +1,235 @@
+body{
+    background-color: rgb(98, 134, 143);
+    margin: 0;
+    padding: 0;
+}
+h1{
+    border-top: 5px;
+    text-align: center;
+}
+table, th, td {
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    float: center;
+    height: 40px;
+    margin: auto;
+    
+}
+table{
+    width: 70%
+    
+}
+th, td{
+    background-color: rgb(98, 134, 143);
+}
+td{
+    text-align: left;
+    width: auto;
+    
+    
+}
+a{
+ text-align: right; 
+ font-size: 20px; 
+ 
+ color: white;
+}
+p{
+    text-align: center;
+    size: 20;
+}
+
+hr{
+    width: 80%;
+    color: rgb(255, 254, 254);  
+}
+#Ekalause{
+    font-size: 30px;
+    font-weight: bold;
+}
+#Tokalause{
+    font-size: 20px;
+}
+#Alaotsikko{
+    font-size: 30px;
+    font-weight: bold;
+}
+#Alateksti{
+    font-size: 20px;
+}
+#Hyvinvointitek{
+    font-size: 20px;
+    
+}
+#Tietoverkkoasentaja{
+    font-size: 20px;
+}
+#IT-Tukihenkilö{
+    font-size: 20px;
+}
+#Ohjelmistokehittäjä{
+    font-size: 20px;
+}
+#Tietojaviestintä{
+    font-size: 20px;
+}
+#Arviointikriteerit{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    top: 20px;
+    left: 130px;
+}
+#OsaamisenArviointi{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    top: 20px;
+    left: 125px;
+}
+#Taulukko{
+    text-align: center;
+}
+#Osaamisenteksti{
+    font-size: 20px;
+    text-align: center;
+}
+#Osaamisenteksti2{
+    font-size: 20px;
+    text-align: center;
+}
+#Osaamisenteksti3{
+    font-size: 20px;
+    text-align: center;
+}
+#Tutkinnonmuodostuminen{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    top: 20px;
+    left: 125px;
+}
+#Tmuodostumisenteksti{
+    font-size: 20px;
+    text-align: center;
+}
+#Tmuodostumisenteksti2{
+    font-size: 20px;
+    text-align: center;
+}
+
+  ul{
+    font-size: 20px;
+    position: relative;
+
+  }  
+  #Tutkinnonosat{
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    top: 40px;
+    left: 125px;
+  }
+  #TietojaviestintäperusT{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    top: 30px;
+    left: 125px;
+  }
+  #koodi106413{
+    font-size: 20px; 
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 125px;
+  }
+  #Ammattitaitovaatimukset{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    left: 125px;
+  }
+  #paksupallo{
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 105px;
+  }
+  #reikä{
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 140px;
+  }
+  #Opiskelijantiedonhaku{
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 105px;
+  }
+  #Opiskelijakäyttäätietoteknistäympäristöä{
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 105px;
+  }
+  #Ohjelmointi45op{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    left: 125px;
+    top: 30px;
+  }
+  #koodi106419{
+    font-size: 20px; 
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 125px;
+  }
+  #Ohjelmistokehittäjänätoimiminen45osp{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    left: 125px;
+    top: 30px;
+  }
+  #Koodi106420{
+    font-size: 20px; 
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 125px;
+  }
+  #Verkkopalveluntekninentoteuttaminen15osp{
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    left: 125px;
+    top: 30px;
+  }
+  #Koodi106432{
+    font-size: 20px; 
+    text-align: left;
+    position: relative;
+    text-align: left;
+    left: 125px;
+  }
+  #Ammattitaitovaatimukset2{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    left: 125px;
+    top: 10px;
+  }
