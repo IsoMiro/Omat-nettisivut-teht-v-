@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(98, 134, 143);
+    
+}
+a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none; 
+    font-weight: bold;
+    position: relative;
+    left: 300px;
+}
+
+h2{
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none; 
+    position: relative;
+    left: 150px;
+}
+hr{ 
+    width: 90%;
+    margin: auto;
+    color: rgb(0, 0, 0);  
+    
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    text-size-adjust: 20%;
+    
+}
+h3{
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none; 
+    position: relative;
+    left: 150px;
+}
+#pisteet{
+    text-align: left;
+    text-decoration: none; 
+    position: relative;
+    left: 50px;
+}
+#Tutkinnonosat{
+    font-size: 40px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    top: 20px;
+    left: 90px;
+    
+}
+li{
+    text-align: left;
+    text-decoration: none; 
+    font-weight: bold;
+    
+    
+}
+#Tieto25op{
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+}
+#Paksupallo{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+    margin: 0%;
+    
+}
+#reikä{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 120px;
+    margin: 0%;
+}
+#Koodi{
+    text-align: left;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+}
+#Ammattitaitovaatimukset{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+}
+#Baari{
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    text-decoration: none; 
+    position: relative;
+    
+    
+}
+#OhjelmistoKehit45op{
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+}
+#Ohjelmointi45op{
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+}
+#Verkkopalvelu15op{
+    font-size: 40px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none; 
+    position: relative;
+    left: 90px;
+}
+
+.navbar{
+    padding: .8rem;
+    height: 100px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
