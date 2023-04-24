@@ -1,0 +1,120 @@
+body {
+    font-size: 200px/1.5;
+    font-family: 'Ariel', sans-serif;
+
+background-color: yellowgreen;
+margin: 0;
+padding: 0;
+}
+
+ul {
+   margin: 0;
+   padding: 0;
+}
+
+
+.container{
+   width: 100%;
+   max-width: 1200px;
+color: white;
+   margin: auto;
+overflow: visible;
+margin:  10px 20px 10px 20px;
+padding-top: 10px; 
+}
+
+/* Header-tyylit */
+header {
+background-color: #35424a;
+color: #f4f4ff;
+padding: 60px 0;
+min-height: 70px;
+border-bottom: #a4bd39 3px solid;
+}
+
+#branding img {
+display: block;
+float: right;
+padding: 5px;
+margin: 0px 10px 0px 10px;
+height: 250px;
+}
+
+#banaani {
+   display: block;
+   float: left;
+   padding: 5px;
+   margin: 0px 10px 0px 10px;
+   height: 400px;
+   -ms-transform: rotate(25deg); /* IE 9 */
+   -webkit-transform: rotate(25deg); /* Chrome, Safari, Opera, Mozilla Firefox */
+transform:rotate(25deg);
+}
+   
+#branding h1 {
+   margin: 50px;
+}
+
+header a {
+   color: #ffffff;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 18px;
+}
+
+header li {
+display: inline;
+padding: 0 20px;
+}
+
+header nav {
+   float: right
+margin-top 15px;
+}
+   /* Showcase */
+#newsletter{
+min-height: 400px;
+background-image: url
+text-align center;
+color: blue;
+}
+
+/* showcase */
+#showcase h1 {
+   font-size: 60px;
+   margin-top: 10px;
+margin-bottom: 10px;
+}
+
+#showcase h2 {
+   font-size: 40px;
+   margin-top: 10px;
+}
+#showcase p {
+   font-size: 22px;
+}
+
+/* Showcase */
+#showcase {
+   background-color: red;
+color: black;
+margin-left: 0px
+}
+
+/* Newsletter */
+#newsleter h1 {
+ float: right;  
+} 
+
+/* showcase */
+#showcase h1 {
+    font-size: 60px;
+    margin-top: 10px;
+margin-bottom: 10px;
+}
+/* Showcase */
+#showcase {
+    background-color: #35424a;;
+ color: black;
+ margin-left: 0px
+ }
